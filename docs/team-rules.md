@@ -20,8 +20,17 @@
   ex)
   [#1] feat: README 파일 작성
   [#5] fix: 자기소개 파일 오타 수정
-
   ```
+
+- type : subject
+  - feat : 새로운 기능 추가
+  - fix: 버그 수정
+  - docs: 문서 수정
+  - style: 코드 스타일 수정
+  - refactor: 코드 리팩터링
+  - test: 테스트 추가/수정
+  - build: 빌드 수정
+  - chore: 기타 수정
 
 ## 브랜치 전략
 

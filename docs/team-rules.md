@@ -22,7 +22,7 @@
   [#5] fix: 자기소개 파일 오타 수정
   ```
 
-- type : subject
+- **type 별 설명**
   - feat : 새로운 기능 추가
   - fix: 버그 수정
   - docs: 문서 수정
